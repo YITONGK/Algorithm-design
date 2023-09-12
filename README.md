@@ -1,1 +1,1 @@
-# Checker-algorithm
+# design algorithms for sudoku and checker
